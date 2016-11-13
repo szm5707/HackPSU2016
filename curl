@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -u "8a905ee6-6fab-4a28-80cd-8ea5ec1e8fd5":"urgjXadoRbR1" "https://gateway.watsonplatform.net/retrieve-and-rank/api/v1/solr_clusters/sc75ab4474_e7c4_48ae_adec_07dc35726001/solr/example_collection/update" --data-binary @{cranfield-data.json
